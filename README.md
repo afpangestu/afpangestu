@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Software Testing**
 
-- 👨‍💻 All of my projects are available at [afpangestu.github.io/portfolio](afpangestu.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [afpangestu.github.io/portfolio](https://afpangestu.github.io/portfolio)
 
 - 💬 Ask me about **Software Quality Assurance**
 
