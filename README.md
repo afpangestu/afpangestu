@@ -11,12 +11,12 @@
 
 - 💬 Ask me about **Software Quality Assurance**
 
-- 📫 How to reach me **ajifauzi949@gmail.com** or [**Whatsapp**](https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20secara%20lebih%20rinci)
+- 📫 How to reach me **ajifauzi949@gmail.com** or [**Whatsapp**](https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20lebih%20detail)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aji-fauzi-pangestu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aji-fauzi-pangestu" height="30" width="40" /></a>
-<a href="https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20secara%20lebih%20rinci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ajifauzipngstu" height="30" width="40" /></a>
+<a href="https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20lebih%20detail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ajifauzipngstu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
