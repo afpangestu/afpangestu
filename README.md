@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software Quality Assurance**
 
-- 📫 How to reach me **ajifauzi949@gmail.com** or [**Whatsapp**](https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20lebih%20detail)
+- 📫 How to reach me **ajifauzi9898@gmail.com** or [**Whatsapp**](https://wa.me/+6289699708706?text=Halo%2C%20Aji%21%20Kami%20dari%20PT.%20xx%20tertarik%20untuk%20mendiskusikan%20lamaran%20Anda%20lebih%20detail)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
