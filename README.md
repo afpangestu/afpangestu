@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aji Fauzi Pangestu</h1>
 <h3 align="center">A passionate Software Quality Assurance with a background software development and testing and less than one year of professional experience. Demonstrated proficiency in Quality Assurance methodologies and processes, coupled with a keen interest in Software Quality Assurance Automation and Manual Testing.</h3>
 
-- 🌱 I’m currently learning **API Automation Testing, Web/Mobile Automation Testing, Performance Testing, CI/CD**
+- ⭐ I’m currently mastering **API Automation Testing, Web/Mobile Automation Testing, Performance Testing, CI/CD**
 
 - 👯 I’m looking to collaborate on **Software Quality Assurance**
 
